@@ -11,20 +11,22 @@ Adan is a computer engineer, as a person Adan have a great passion for the devel
 
 <img align="right" height="250" width="400" alt="Eidan Condori" src="img/developer.gif" />
 
-- 💻 &nbsp; I love exploring new tech stacks and building cool stuff.
+- 💻 &nbsp; I love to develop and build cool stuff using good practices for implementation.
 - 📰 &nbsp; Reading tech blogs whenever possible.
 - 🍕 &nbsp; Travelling, meetups & tech events.
 - 🚀 &nbsp; I’m currently learning Full Stack Web Development.
-- :computer: &nbsp; Most written code line `console.log("hello world");`
+- 💻 &nbsp; Most written code line `console.log("hello world");`
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://adancondori.github.io/).
 - 👾 &nbsp; Fun Fact: Equal is Not Always Equal in Javascript! 😹
 - 📝 &nbsp; Checkout my [Resume](https://adancondori.github.io/).
 
 <p>
 
-<code><a href="https://www.linkedin.com/in/adancondori/" rel="nofollow"><img src="https://camo.githubusercontent.com/30b1a9002c659b7b7be7d364099a12ca06d7bd1b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2532302d436f6e6e6563742d626c61636b3f636f6c6f723d313431373141266c6162656c436f6c6f723d323132313231266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d666666666666" alt="LinkedIn Connect Adan Condori" data-canonical-src="https://img.shields.io/badge/%20-Connect-black?color=14171A&amp;labelColor=212121&amp;logo=linkedin&amp;logoColor=ffffff" style="max-width:100%;"></a>
+<code>
+  <a href="https://www.linkedin.com/in/adancondori/" rel="nofollow"><img src="https://camo.githubusercontent.com/30b1a9002c659b7b7be7d364099a12ca06d7bd1b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2532302d436f6e6e6563742d626c61636b3f636f6c6f723d313431373141266c6162656c436f6c6f723d323132313231266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d666666666666" alt="LinkedIn Connect Adan Condori" data-canonical-src="https://img.shields.io/badge/%20-Connect-black?color=14171A&amp;labelColor=212121&amp;logo=linkedin&amp;logoColor=ffffff" style="max-width:100%;"></a>
 </code>
-<code><a href="https://stackoverflow.com/users/5873203/adan-condori-c"><img src="https://camo.githubusercontent.com/6c16966ca2fde7c772c57526ea15bbd09f3ba71c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537461636b2532304f766572666c6f772d3232323232323f7374796c653d666c61742d737175617265266c6f676f3d737461636b2d6f766572666c6f77266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f737461636b6f766572666c6f772e636f6d2f75736572732f373933383437312f72696661742d683f7461623d70726f66696c65" alt="Stack overflow Eidan Condori"></a></code>
+<code>
+  <a href="https://stackoverflow.com/users/5873203/adan-condori-c"><img src="https://camo.githubusercontent.com/6c16966ca2fde7c772c57526ea15bbd09f3ba71c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537461636b2532304f766572666c6f772d3232323232323f7374796c653d666c61742d737175617265266c6f676f3d737461636b2d6f766572666c6f77266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f737461636b6f766572666c6f772e636f6d2f75736572732f373933383437312f72696661742d683f7461623d70726f66696c65" alt="Stack overflow Eidan Condori"></a></code>
 </p>
 
 ---
@@ -35,6 +37,30 @@ Adan is a computer engineer, as a person Adan have a great passion for the devel
 
 <table>
   <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Ruby_on_Rails_logo.svg" width="48" height="48" alt="HTML" />
+      </a>
+      <br>Ruby on Rails
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Swift-im.svg" width="48" height="48" alt="HTML" />
+      </a>
+      <br>IOS Swift
+    </td>
+    <td align="center"  width="96">
+      <a href="#">
+        <img src="https://seeklogo.com/images/O/objective-c-logo-81746870EF-seeklogo.com.png" width="48" height="48" alt="Github" />
+      </a>
+      <br>Objective C
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Android_5.1_apk_icon.png" width="48" height="48" alt="HTML" />
+      </a>
+      <br>Android java
+    </td>
     <td align="center" width="96">
       <a href="#">
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="48" height="48" alt="HTML" />
@@ -55,22 +81,12 @@ Adan is a computer engineer, as a person Adan have a great passion for the devel
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="48" height="48" alt="NodeJS" />
-      </a>
-      <br>NodeJS
-    </td>
-    <td align="center" width="96">
-      <a href="#">
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="48" height="48" alt="ReactJS" />
       </a>
       <br>ReactJS
     </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="#" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="48" height="48" alt="Bootstrap" />
@@ -89,25 +105,43 @@ Adan is a computer engineer, as a person Adan have a great passion for the devel
       </a>
       <br>MongoDB
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="96"> 
-      <a href="#" >
-        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="48" height="48" alt="ExpressJS" />
-      </a>
-      <br>ExpressJS
-    </td>
     <td align="center" width="96">
-      <a href="#" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="48" height="48" alt="NextJS" />
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="48" height="48" alt="Git" />
       </a>
-      <br>NextJS
+      <br>Git
     </td>
     <td align="center"  width="96">
       <a href="#">
         <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="48" height="48" alt="Github" />
       </a>
       <br>Github
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="48" height="48" alt="NodeJS" />
+      </a>
+      <br>NodeJS
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96"> 
+      <a href="#" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="48" height="48" alt="ExpressJS" />
+      </a>
+      <br>Postgres
+    </td>
+        <td align="center" width="96">
+      <a href="#" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" width="48" height="48" alt="Photoshop" />
+      </a>
+      <br>MySql
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="48" height="48" alt="NextJS" />
+      </a>
+      <br>NextJS
     </td>
     <td align="center"  width="96">
       <a href="#">
@@ -139,35 +173,29 @@ Adan is a computer engineer, as a person Adan have a great passion for the devel
       </a>
       <br>Linux
     </td>
-    <td align="center" width="96">
-      <a href="#" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="48" height="48" alt="Photoshop" />
-      </a>
-      <br>Photoshop
-    </td>
   </tr>
 </table>
 
 ---
 
-### :boy: A little more about me:
+### : A little more about me:
 
 ```javascript
 const adancondori = {
   name: "Adan Condori",
   pronouns: "He" | "Him",
-  languageSpoken: ["en_US", "bn_BD"],
+  languageSpoken: ["en_US", "es_BO"],
   code: ["Android, IOS, RoR, Javascript", "HTML", "CSS"],
   askMeAbout: ["web dev", "tech", "photography"],
   technologies: {
-        web: {
-         frontEnd: ["ReactJS", "NextJS", "Bootstrap", "Tailwind CSS"],
-         backEnd: ["NodeJS", "ExpressJS", "mongoose"],
+      web: {
+        frontEnd: ["ReactJS", "NextJS", "Bootstrap", "CSS",
+        backEnd: ["RoR", "Java", "Php", "C#"],
       },
-        databases: ["mongoDB"],
-        misc: ["Firebase", "Socket.IO"]
+      databases: ["Postgres", "MySql", "SqlServer", "mongoDB"],
+      misc: ["Firebase", "Socket.IO"]
     },
-    currentFocus: "Movile Development",
+  currentFocus: ["Backend Ruby on Rails","Movile Development"],
 }
 ```
 
@@ -199,5 +227,5 @@ const adancondori = {
   ---
   
 <p>
-<img alt="adancondori's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=adancondori&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+  <img alt="adancondori's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=adancondori&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </p>
