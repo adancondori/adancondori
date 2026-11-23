@@ -1,231 +1,131 @@
-<p align="left"><img src="https://komarev.com/ghpvc/?username=adancondori&label=Profile%20views&color=0e75b6&style=flat" alt="adancondori" /> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </p>
-
-## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px">, I'm [Adan Condori!](https://github.com/adancondori/) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
-
-
-Adan is a computer engineer, as a person Adan have a great passion for the development of applications, using patterns of designs and guided by some methodology of software development, for long time working I acquired greater dexterity in web development. Adan like to take on challenges as well as experimenting with new technologies such as libraries, framework among others, since the proper use of them contributes to making high quality software in less time.
-
----
-
-### Talking about Personal Stuffs:
-
-<img align="right" height="250" width="400" alt="Eidan Condori" src="img/developer.gif" />
-
-- 💻 &nbsp; I love to develop and build cool stuff using good practices for implementation.
-- 📰 &nbsp; Reading tech blogs whenever possible.
-- 🍕 &nbsp; Travelling, meetups & tech events.
-- 🚀 &nbsp; I’m currently learning Full Stack Web Development.
-- 💻 &nbsp; Most written code line `console.log("hello world");`
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://adancondori.github.io/).
-- 👾 &nbsp; Fun Fact: Equal is Not Always Equal in Javascript! 😹
-- 📝 &nbsp; Checkout my [Resume](https://adancondori.github.io/).
-
-<p>
-
-<code>
-  <a href="https://www.linkedin.com/in/adancondori/" rel="nofollow"><img src="https://camo.githubusercontent.com/30b1a9002c659b7b7be7d364099a12ca06d7bd1b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2532302d436f6e6e6563742d626c61636b3f636f6c6f723d313431373141266c6162656c436f6c6f723d323132313231266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d666666666666" alt="LinkedIn Connect Adan Condori" data-canonical-src="https://img.shields.io/badge/%20-Connect-black?color=14171A&amp;labelColor=212121&amp;logo=linkedin&amp;logoColor=ffffff" style="max-width:100%;"></a>
-</code>
-<code>
-  <a href="https://stackoverflow.com/users/5873203/adan-condori-c"><img src="https://camo.githubusercontent.com/6c16966ca2fde7c772c57526ea15bbd09f3ba71c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537461636b2532304f766572666c6f772d3232323232323f7374796c653d666c61742d737175617265266c6f676f3d737461636b2d6f766572666c6f77266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f737461636b6f766572666c6f772e636f6d2f75736572732f373933383437312f72696661742d683f7461623d70726f66696c65" alt="Stack overflow Eidan Condori"></a></code>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=620&lines=Payment+Systems+Lead+%40+Playbypoint;Ruby+on+Rails+%C2%B7+GraphQL+%C2%B7+React+Native;Spec-driven+dev+with+AI+agents;Professor+of+mobile+development" alt="Payment Systems Lead · Rails · GraphQL · AI agents · Professor" />
 </p>
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/adancondori/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://adancondori.github.io/"><img src="https://img.shields.io/badge/Blog-0E75B6?style=for-the-badge&logo=jekyll&logoColor=white" alt="Blog" /></a>
+  <a href="https://adancondori.github.io/cv/"><img src="https://img.shields.io/badge/CV-2EA44F?style=for-the-badge&logo=readdotcv&logoColor=white" alt="CV" /></a>
+  <a href="https://stackoverflow.com/users/5873203/adan-condori-c"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+  <a href="mailto:adan.condoric@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=adancondori&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+</p>
 
-### :dart: Languages and Tools:
+## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px">, I'm Adan Condori
 
-> Tools, languages, and other things that I like to work with.
+<img align="right" width="360" alt="Developer illustration" src="img/developer.gif" />
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Ruby_on_Rails_logo.svg" width="48" height="48" alt="HTML" />
-      </a>
-      <br>Ruby on Rails
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Swift-im.svg" width="48" height="48" alt="HTML" />
-      </a>
-      <br>IOS Swift
-    </td>
-    <td align="center"  width="96">
-      <a href="#">
-        <img src="https://seeklogo.com/images/O/objective-c-logo-81746870EF-seeklogo.com.png" width="48" height="48" alt="Github" />
-      </a>
-      <br>Objective C
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Android_5.1_apk_icon.png" width="48" height="48" alt="HTML" />
-      </a>
-      <br>Android java
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="48" height="48" alt="HTML" />
-      </a>
-      <br>HTML 5
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="48" height="48" alt="CSS" />
-      </a>
-      <br>CSS 3
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="48" height="48" alt="Javascript" />
-      </a>
-      <br>Javascript
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="48" height="48" alt="ReactJS" />
-      </a>
-      <br>ReactJS
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="#" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
-      </a>
-      <br>Postman
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="48" height="48" alt="MongoDB" />
-      </a>
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center"  width="96">
-      <a href="#">
-        <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="48" height="48" alt="Github" />
-      </a>
-      <br>Github
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="48" height="48" alt="NodeJS" />
-      </a>
-      <br>NodeJS
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96"> 
-      <a href="#" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="48" height="48" alt="ExpressJS" />
-      </a>
-      <br>Postgres
-    </td>
-        <td align="center" width="96">
-      <a href="#" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" width="48" height="48" alt="Photoshop" />
-      </a>
-      <br>MySql
-    </td>
-    <td align="center" width="96">
-      <a href="#" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="48" height="48" alt="NextJS" />
-      </a>
-      <br>NextJS
-    </td>
-    <td align="center"  width="96">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="VScode" />
-      </a>
-      <br>VScode
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/terminal-1.svg" width="48" height="48" alt="Terminal" />
-      </a>
-      <br>Terminal
-    </td>
-    <td align="center"  width="96">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" width="48" height="48" alt="npm" />
-      </a>
-      <br>npm
-    </td>
-    <td align="center" width="96">
-      <a href="#" >
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" alt="TailwindCSS" />
-      </a>
-      <br>TailwindCSS
-    </td>
-    <td align="center" width="96">
-      <a href="#" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="48" height="48" alt="Linux" />
-      </a>
-      <br>Linux
-    </td>
-  </tr>
-</table>
+Computer engineer from **Santa Cruz, Bolivia** 🇧🇴 with 10+ years shipping web and mobile products, from banking apps to SaaS platforms.
+
+Today I lead **payment systems at [Playbypoint](https://playbypoint.com)** (USA, remote): multi-gateway card processing, 3DS, refunds and reconciliation on a Ruby on Rails + GraphQL platform used by sports clubs across the US and Latin America.
+
+I also teach **mobile development at Universidad del Valle** and write about payments engineering on [my blog](https://adancondori.github.io/) (mostly in Spanish).
+
+### 🔭 What I'm working on
+
+- 💳 **Payments at Playbypoint**: gateway integrations, saved cards and tokenization, 3DS, idempotency, refunds and reconciliation.
+- 🤖 **AI-assisted engineering**: spec-driven development (OpenSpec) with Claude Code and Codex agents, custom skills and MCP servers.
+- 🧠 **Thesis**: [unsupervised ML fraud detection for payments](https://github.com/adancondori/ml-fraud-detector).
+- 🖥️ **[Klaudio Panels](https://github.com/adancondori/klaudio-panels)**: a desktop app that embeds the Claude Code CLI.
+- 🦀 **Learning Rust** by building [a personal daily digest](https://github.com/adancondori/DailyTask).
+- 👨‍🏫 **Teaching** Android, iOS, Flutter and React Native.
+
+<br clear="right" />
 
 ---
 
-### : A little more about me:
+### 🚀 Featured projects
 
-```javascript
-const adancondori = {
-  name: "Adan Condori",
-  pronouns: "He" | "Him",
-  languageSpoken: ["en_US", "es_BO"],
-  code: ["Android, IOS, RoR, Javascript", "HTML", "CSS"],
-  askMeAbout: ["web dev", "tech", "photography"],
-  technologies: {
-      web: {
-        frontEnd: ["ReactJS", "NextJS", "Bootstrap", "CSS",
-        backEnd: ["RoR", "Java", "Php", "C#"],
-      },
-      databases: ["Postgres", "MySql", "SqlServer", "mongoDB"],
-      misc: ["Firebase", "Socket.IO"]
-    },
-  currentFocus: ["Backend Ruby on Rails","Movile Development"],
+| Project | What it does | Stack |
+|---|---|---|
+| [**Klaudio Panels**](https://github.com/adancondori/klaudio-panels) | Native desktop window around the real Claude Code CLI: projects sidebar, multi-tab sessions, auto-resume, file tree and git panel. | Tauri v2 · Rust · SolidJS · xterm.js |
+| [**ML Fraud Detector**](https://github.com/adancondori/ml-fraud-detector) | Offline pipeline that flags anomalous payments with Isolation Forest, LOF and One-Class SVM over 31 engineered features. | Python · scikit-learn · ClickHouse |
+| [**El Diario**](https://github.com/adancondori/DailyTask) | A personal newspaper generated every morning as HTML and local audio. | Rust |
+| [**Carcassonne Scoreboard**](https://github.com/adancondori/carcassone-online) | Mobile-first score tracker for the board game with an SVG meeple board, undo and voice input. | FastAPI · SQLModel · Jinja · Whisper |
+| [**QRADM**](https://github.com/adancondori/QRADM) | QR-based event management for camps: check-in, groups, activities and scoring, with a [Flutter app](https://github.com/adancondori/qradm-mobile). | Rails · Flutter · AWS CloudFormation |
+| [**Blog & CV**](https://github.com/adancondori/adancondori.github.io) | My site: payments architecture, 3DS, ADRs and engineering practice. | Jekyll |
+
+### ✍️ Latest posts
+
+- [Arquitectura base de un sistema de pagos multi-gateway](https://adancondori.github.io/posts/Arquitectura-Base-Sistema-Pagos-Multi-Gateway/)
+- [ADRs en sistemas de pagos](https://adancondori.github.io/posts/ADRs-en-sistemas-de-pagos/)
+- [Guardia del Sprint: el escudo invisible del equipo](https://adancondori.github.io/posts/guardia-del-sprint-triage-engineer/)
+- [Trazabilidad en transacciones 3DS](https://adancondori.github.io/posts/Trazabilidad_en_Transacciones_3DS/)
+
+---
+
+### 🛠️ Tech stack
+
+**Backend**<br>
+<img src="https://skillicons.dev/icons?i=ruby,rails,graphql,py,fastapi,nodejs,rust" alt="Ruby, Rails, GraphQL, Python, FastAPI, Node.js, Rust" />
+
+**Frontend & mobile**<br>
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,solidjs,tailwind,swift,kotlin,flutter,dart" alt="TypeScript, React, Next.js, SolidJS, Tailwind, Swift, Kotlin, Flutter, Dart" />
+
+**Data & cloud**<br>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,redis,elasticsearch,aws,gcp,docker,kubernetes,terraform,githubactions" alt="MySQL, PostgreSQL, Redis, Elasticsearch, AWS, GCP, Docker, Kubernetes, Terraform, GitHub Actions" />
+
+**AI & tooling**<br>
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
+<img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge" alt="Codex" />
+<img src="https://img.shields.io/badge/MCP-1F2937?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol" />
+<img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black" alt="ClickHouse" />
+<img src="https://img.shields.io/badge/New_Relic-1CE783?style=for-the-badge&logo=newrelic&logoColor=black" alt="New Relic" />
+
+---
+
+### 🙋 A little more about me
+
+```ruby
+adan = {
+  pronouns:     %w[he him],
+  based_in:     "Santa Cruz, Bolivia 🇧🇴",
+  speaks:       %w[es en],
+  role:         "Full Stack Engineer · Payment Systems Lead @ Playbypoint",
+  teaching:     "Mobile development @ Universidad del Valle",
+  education:    ["Computer Engineering", "Master's in Strategic Management of Software Engineering"],
+  ask_me_about: ["payment gateways", "3DS", "Rails architecture", "GraphQL APIs", "mobile apps", "AI agents"],
+  fun_fact:     "0.1 + 0.2 != 0.3, which is why money lives in cents 💸"
 }
 ```
 
+<details>
+<summary><b>💼 Career</b></summary>
+
+| When | Where | Role |
+|---|---|---|
+| 2024 – now | Playbypoint (USA, remote) | Full Stack Engineer · Payment Systems Lead |
+| 2023 – now | Universidad del Valle (BO) | Professor, mobile development |
+| 2021 – 2024 | NETACTICA (CO) | Technical Leader |
+| 2017 – 2021 | Banco Fassil (BO) | Head of Technology Development |
+| 2015 – now | Freelance | Web & mobile developer |
+| 2013 – 2017 | Ticketeg, V8, Zoom Bolivia (BO) | Software Engineer |
+
+</details>
+
+<details>
+<summary><b>⚙️ Things I use to get stuff done</b></summary>
+
+- 💻 **Machine:** MacBook Pro, macOS
+- 🤖 **Agents:** Claude Code, Codex
+- ✏️ **Editors:** VS Code, Cursor, Xcode, Android Studio
+- ⌨️ **Terminal:** Warp, iTerm2, zsh + Powerlevel10k
+- 🧰 **Tools:** Docker, Postman, Obsidian
+- 🌐 **Browser:** Brave, Chrome
+
+</details>
+
 ---
 
-### ☄️ Github Streaks:
-<p align="center">
-    <img alt="adancondori's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=adancondori&theme=tokyonight&hide_border=true"/>
-</p>
-
-### ⚡ Github Stats:
+### 📊 GitHub stats
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=adancondori&show_icons=true&hide_border=true&theme=tokyonight" alt="adancondori's stats" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=adancondori&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="adancondori's stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=adancondori&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=adancondori&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
 </p>
-
----
-
-### ⚙️ Things I use to get stuff done:
-- OS: MacBook Pro
-- Machine: Sierra
-- Browser: Brave and Chrome
-- Terminal: Hyper, ZSH: Oh My Zsh (PowerLevel10k)
-- Code Editor: VSCode - Sublime - The best editor out there.
-
-
-  
-  ---
-  
-<p>
-  <img alt="adancondori's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=adancondori&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=adancondori&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adancondori&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" />
 </p>
